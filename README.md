@@ -19,4 +19,4 @@ e tambem de como entrar em contato por vários tipos de canais de comunicação.
 
 ## Deploy on Vercel
 
-[Click aqui](https://eventoapponline.herokuapp.com/) para ver a live preview deste projeto.
+[Click aqui](https://portfolio-filypy-maycon.vercel.app/) para ver a live preview deste projeto.
