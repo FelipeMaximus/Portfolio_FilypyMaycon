@@ -20,3 +20,10 @@ e tambem de como entrar em contato por vários tipos de canais de comunicação.
 ## Deploy on Vercel
 
 [Click aqui](https://portfolio-filypy-maycon.vercel.app/) para ver a live preview deste projeto.
+
+## Aponte a sua camera aqui
+
+<div align="center" >
+  <img src="<div align="center" >
+  <img src="https://github.com/FelipeMaximus/Web-site-/assets/53831498/696ed61e-8b20-46cb-a9db-dd11b3ff9e4e">
+</div>
