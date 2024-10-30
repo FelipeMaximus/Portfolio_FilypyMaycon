@@ -23,4 +23,4 @@ e tambem de como entrar em contato por vários tipos de canais de comunicação.
 
 ## Aponte a sua camera aqui
 
-![Imagem](qrCode.png)
+![Imagem](qrCodee.png)
